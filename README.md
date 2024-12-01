@@ -1,4 +1,7 @@
 # RapidMQ: Messaging Queue Application
+<img width="1499" alt="Screenshot 2024-12-01 at 8 02 26 PM" src="https://github.com/user-attachments/assets/17f14fc2-b1a9-45cb-abd9-187268e9d680">
+
+
 
 A robust messaging queue application built with a **React** frontend and a **Go** backend, leveraging Go routines for concurrency. This application implements the **Pub-Sub Model** and supports three types of exchanges: `DIRECT`, `TOPIC`, and `FANOUT`. 
 
